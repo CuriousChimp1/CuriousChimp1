@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Salesforce CRM<br>
+🌱 I’m currently learning React.js and TypeScript.<br>
 
 
 ## 🌐 Socials:
