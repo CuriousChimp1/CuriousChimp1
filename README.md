@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js and TypeScript.<br>
+🌱 I’m currently learning Django.<br>
 
 
 ## 🌐 Socials:
